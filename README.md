@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+My name is Ronan McDermott, I work in the finance industry, specifically focusing on private markets, and I'm interested in everything to do with Python, R, Matlab and data science!
+
 🔭 I’m currently working on ...
 <!--
 **98mcdermottr-design/98mcdermottr-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
