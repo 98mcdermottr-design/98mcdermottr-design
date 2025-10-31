@@ -3,7 +3,9 @@
 My name is Ronan McDermott, I work in the finance industry, specifically focusing on private markets, and I'm interested in everything to do with Python, R, Matlab and data science!
 
 🔭 I’m currently working on ...
+
 🌱 I plan to work on a PageRank algorithm applied to financial markets, to idetify companies that are influenced by other companies and those that are influencers, in order to identify points of systemic risk.
+
 📫 How to reach me: www.linkedin.com/in/ronan-mcdermott-7ab802142
 <!--
 **98mcdermottr-design/98mcdermottr-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
