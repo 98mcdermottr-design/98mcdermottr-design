@@ -2,7 +2,7 @@
 
 My name is Ronan McDermott, I work in the finance industry, specifically focusing on private markets, and I'm interested in everything to do with Python, R, Matlab and data science!
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on heat equation solver in Python.
 
 🌱 I plan to work on a PageRank algorithm applied to financial markets, to idetify companies that are influenced by other companies and those that are influencers, in order to identify points of systemic risk.
 
