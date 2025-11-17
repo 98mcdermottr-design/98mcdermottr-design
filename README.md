@@ -4,7 +4,7 @@ My name is Ronan McDermott, I work in the finance industry, specifically focusin
 
 🔭 I’m currently working on heat equation solver in Python.
 
-🌱 I plan to work on a PageRank algorithm applied to financial markets, to idetify companies that are influenced by other companies and those that are influencers, in order to identify points of systemic risk.
+🌱 I plan to work on a PageRank algorithm applied to financial markets, to idetify companies that are influenced by other companies and those that are influencers, in order to identify points of systemic risk. FitzHugh–Nagumo model.
 
 📫 How to reach me: www.linkedin.com/in/ronan-mcdermott-7ab802142
 <!--
